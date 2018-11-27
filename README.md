@@ -107,16 +107,16 @@
 ### 2.1 2학년 1반
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
-| 01  | 강윤수 | @yoonsuKang03 | [mycatcode저장소](https://github.com/yoonsuKang03/code-about-yoon.git) |  
+| 01  | 강윤수 | @yoonsuKang03 | [mycatcode저장소](https://github.com/yoonsuKang03/code-about-yoon) |  
 | 02  | 김나연 | @kimnayeon574 | [mycatcode저장소](https://github.com/kimnayeon574/mycatcode) |  
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  | 김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
-| 05  | 나연경 | @nayeonkyoung | [https://github.com/nayeonkyoung/mycatcode.git]() |  
+| 05  | 나연경 | @nayeonkyoung | [mycatcode저자소](https://github.com/nayeonkyoung/mycatcode) |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) | 
-| 08  | 박희경 | @HeekyoungPark | [mycatcode저장소](https://github.com/HeekyoungPark/myacatcode.git) |  
+| 08  | 박희경 | @HeekyoungPark | [mycatcode저장소](https://github.com/HeekyoungPark/myacatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
-| 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
+| 10  | 유란주 | @ranjuyou | [mycatcode저장소](https://github.com/ranjuyou/mycatcode) |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  | 이규빈 | @binkalos | [mycatcode저장소](https://github.com/binkalos/mycatcode) |  
 | 13  | 이서주 | @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
@@ -144,11 +144,11 @@
 | 11  | 신영선 | @YoungSunShin  | [mycatcode저장소](https://github.com/YoungSunShin/mycatcode) |  
 | 12  | 이유정 | @You-J | [mycatcode저장소](https://github.com/You-J/mycatcode) |  
 | 13  | 이유진 | @2ujin | [mycatcode저장소](https://github.com/2ujin/student20182) |  
-| 14  |이재은| @jaeeun5244 | [mycatcode저장소](https://github.com/jaeeun5244/mycatcode.git) |  
+| 14  | 이재은 | @jaeeun5244 | [mycatcode저장소](https://github.com/jaeeun5244/mycatcode) |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
 | 17  |  | @ | [mycatcode저장소]() |  
-| 18  | 최유라 | @s2017i19 | [mycatcode저장소](https://github.com/s2017i19/mycatcode.git) |  
+| 18  | 최유라 | @s2017i19 | [mycatcode저장소](https://github.com/s2017i19/mycatcode) |  
 | 19  | 허주희 | @juhee6379 | [mycatcode저장소](https://github.com/heojuhee/mycatcode) |  
 | 20  |  | @ | [mycatcode저장소]() |  
 
