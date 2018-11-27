@@ -1,4 +1,4 @@
-# Git과 Github로 협업하기
+﻿# Git과 Github로 협업하기
 ## 1. 설명
 이 페이지에서는 깃과 깃허브를 사용해서 협업을 하는 연습을 익혀봅니다. 이렇게 같이 협업을 하여 좋은 방향으로 프로젝트를 변경해 가는 것을 `기여`한다는 표현을 합니다. 
 
@@ -133,7 +133,7 @@
 | :---: |:-------------:| :-----:| :-----:|
 | 01  |  | @ | [mycatcode저장소]() |  
 | 02  | 강한나 | @Kanghanna | [mycatcode저장소](https://github.com/Kanghanna/student20182) |  
-| 03  |  | @ | [mycatcode저장소]() |  
+| 03  | 김수민 | @Kim-Sumin | [mycatcode저장소](https://github.com/Kim-Sumin/student20182) |  
 | 04  | 김예빈 | @girincute | [mycatcode저장소](https://github.com/girincute/android-mycatcode) |  
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  | 김하진 | @hjin302 | [mycatcode저장소](https://github.com/hjin302/mycatcode) |  
