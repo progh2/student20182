@@ -126,7 +126,6 @@
 | 17  | 주미림 | @MirimJu | [mycatcode저장소](https://github.com/MirimJu/mycatcode) |  
 | 18  |  | @ | [mycatcode저장소]() |  
 | 19  | 최민성 | @minsung8587 | [mycatcode저장소](https://github.com/minsung8587/mycatcode) |  
-| 20  |  | @ | [mycatcode저장소]() |  
 
 ### 2.2 2학년 2반
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
@@ -147,10 +146,8 @@
 | 14  | 이재은 | @jaeeun5244 | [mycatcode저장소](https://github.com/jaeeun5244/mycatcode) |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
-| 17  |  | @ | [mycatcode저장소]() |  
 | 18  | 최유라 | @s2017i19 | [mycatcode저장소](https://github.com/s2017i19/mycatcode) |  
-| 19  | 허주희 | @juhee6379 | [mycatcode저장소](https://github.com/heojuhee/mycatcode) |  
-| 20  |  | @ | [mycatcode저장소]() |  
+| 19  | 허주희 | @juhee6379 | [mycatcode저장소](https://github.com/heojuhee/mycatcode) |    
 
 ## 3. 레퍼런스
 * [Github first-contributions 한글리드미](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.ko.md) - 이 저장소로도 한번 작업을 해봅시다!
