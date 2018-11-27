@@ -46,7 +46,7 @@
 
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
-| 99 |  | @ | [mycatcode저장소]() |  
+| 03 | 김진주 | @jin-jukim | [mycatcode저장소](https://github.com/jin-jukim/mycatcode) |  
 
 위와 같이 되어있는 코드를 다음가 같이 자신의 정보로 수정해줍니다.
 
