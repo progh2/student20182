@@ -122,7 +122,7 @@
 | 13  | 이서주 | @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
-| 16  |  | @ | [mycatcode저장소]() |  
+| 16  | 정은주 | @melonpan0130 | [mycatcode저장소](https://github.com/melonpan0130/myCatCode) |  
 | 17  | 주미림 | @MirimJu | [mycatcode저장소](https://github.com/MirimJu/mycatcode) |  
 | 18  |  | @ | [mycatcode저장소]() |  
 | 19  | 최민성 | @minsung8587 | [mycatcode저장소](https://github.com/minsung8587/mycatcode) |  
