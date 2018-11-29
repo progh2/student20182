@@ -119,7 +119,7 @@
 | 10  | 유란주 | @ranjuyou | [mycatcode저장소](https://github.com/ranjuyou/mycatcode) |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  | 이규빈 | @binkalos | [mycatcode저장소](https://github.com/binkalos/mycatcode) |  
-| 13  | 이서주 | @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
+| 13  | 이서주 | @seojooLee | [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  | 이유진 | @yujinsss | [mycatcode저장소](https://github.com/yujinsss/mycatcode) |   
 | 16  | 정은주 | @melonpan0130 | [mycatcode저장소](https://github.com/melonpan0130/myCatCode) |  
